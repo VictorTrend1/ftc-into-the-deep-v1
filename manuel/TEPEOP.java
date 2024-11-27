@@ -352,3 +352,5 @@ public class TEPEOP extends LinearOpMode {
         }
     }
 }
+/// putina creatie cu thread-urile alea :Skull:
+
